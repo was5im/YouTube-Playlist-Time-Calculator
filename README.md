@@ -21,20 +21,8 @@ The Playlist Time Calculator is a browser extension that allows you to easily ca
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
-## Contributing
-
-If you'd like to contribute to the development of this extension, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Icons by [IconFinder](https://www.iconfinder.com/)
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 2](screenshots/Screenshot2.png)
 
 ## Contact
 
