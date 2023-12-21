@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Playlist Time Calculator",
+  "version": "1.0",
+  "description": "Easily calculate the total time required to cover a YouTube playlist with the Playlist Time Calculator extension.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
